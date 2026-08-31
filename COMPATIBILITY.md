@@ -27,11 +27,11 @@ RASTER77 does **not** distribute or link to ROM images. This page is only a comp
 
 ## Test Record Fields
 
-- **Status** — current compatibility result.
-- **ROM / Variant** — preserved verbatim from the supplied V20 list.
-- **Mapper** — cartridge/bankswitch scheme identified during testing.
-- **Tested Build** — RASTER77 firmware/build used for the most recent result.
-- **Notes** — timing, controller, display, audio, mapper, or other compatibility observations.
+- **Status** - Current compatibility result.
+- **ROM / Variant** - Preserved verbatim from the supplied V20 list.
+- **Mapper** - Cartridge/bankswitch scheme identified during testing.
+- **Tested Build** - RASTER77 firmware/build used for the most recent result.
+- **Notes** - Timing, controller, display, audio, mapper, or other compatibility observations.
 
 ## 0-9
 
