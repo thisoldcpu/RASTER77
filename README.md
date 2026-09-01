@@ -2,7 +2,7 @@
 
 **RASTER77** is a dedicated Atari 2600 handheld project built around the ESP32-S3, with cycle accuracy as the primary design goal.
 
-<img width="1792" height="2392" alt="RASTER77 prototype concept v0.1" src="https://github.com/user-attachments/assets/eb20c3fc-5e30-4548-b734-f9d9c5fb305c" />
+<img width="767" height="1024" alt="mockup_v01" src="https://github.com/user-attachments/assets/131c8de1-c5ce-4323-8cbb-acfdcb393a7b" />
 
 <p align="center">
   <sub><em>Prototype concept v0.1 · Final hardware subject to change.</em></sub>
