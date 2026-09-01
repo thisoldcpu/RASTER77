@@ -2,6 +2,11 @@
 
 **RASTER77** is a cycle-accurate Atari 2600 handheld built around the ESP32-S3.
 
+<img width="1792" height="2392" alt="mockup_v01" src="https://github.com/user-attachments/assets/eb20c3fc-5e30-4548-b734-f9d9c5fb305c" />
+<p align="center">
+  <sub><em>Prototype concept v0.1 · Final hardware subject to change.</em></sub>
+</p>
+
 The project aims to reproduce the original 6507, TIA, and RIOT timing closely enough for timing-sensitive software to behave correctly, while adding the conveniences expected from a modern dedicated handheld.
 
 ## Goals
